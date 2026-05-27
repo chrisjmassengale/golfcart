@@ -1,0 +1,11 @@
+models/*.engine
+models/*.trt
+*.onnx
+data/
+__pycache__/
+*.pyc
+.env
+calibration/*.npz
+calibration/*.yaml
+.vscode/
+*.bin
